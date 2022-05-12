@@ -5,7 +5,7 @@ function Navbars() {
          
     <Navbar bg="dark" variant='dark' expand="lg">
     <Container fluid>
-    <Navbar.Brand href="#">Foodofest</Navbar.Brand>
+    <Navbar.Brand href="#">Resturant</Navbar.Brand>
     <Navbar.Toggle aria-controls="navbarScroll" />
     <Navbar.Collapse id="navbarScroll">
       <Nav
