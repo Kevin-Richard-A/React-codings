@@ -11,7 +11,7 @@ function Props() {
 function Name(props){
     return(
         <div>
-            <h1>Hi, <p className='kevin' style={{color:'gray'}}>{props.name}</p> Special offers for you</h1>
+            <h1>Hi, <p className='kevin' style={{color:'gray'}}>{props.name}</p> Special offers for you only!!!!</h1>
         </div>
     )
 }
